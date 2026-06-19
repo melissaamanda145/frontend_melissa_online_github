@@ -11,7 +11,7 @@
           <div class="d-flex flex-column flex-sm-row justify-space-between align-start align-sm-center position-relative" style="z-index: 1;">
             <div>
               <h1 class="text-h4 text-md-h3 font-weight-black text-white mb-2">
-                Selamat Datang! 👋
+                Selamat Datan! 👋
               </h1>
               <p class="text-subtitle-1 text-white" style="opacity: 0.75;">
                 Berikut ringkasan performa TokoMeli hari ini.
